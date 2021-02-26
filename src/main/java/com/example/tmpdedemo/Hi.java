@@ -1,7 +1,7 @@
 package com.example.tmpdedemo;
 
-public class Hello {
+public class Hi {
     public static void main(String[] args) {
-        System.err.println("Hello World!!！");
+        System.err.println("Hi World!!");
     }
 }
